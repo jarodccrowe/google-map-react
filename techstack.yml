@@ -2,7 +2,7 @@ repo_name: jarodccrowe/google-map-react
 report_id: a8d86633d2f68d02a54e26374882f645
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-18T02:43:59+00:00'
+timestamp: '2024-02-29T19:30:18+00:00'
 requested_by: itsmichaeldiego
 provider: github
 branch: master
@@ -162,7 +162,7 @@ tools:
   last_updated_by: Ivan Starkov
   last_updated_on: 2016-06-13 00:29:55.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 0.22.0
   license: MIT
